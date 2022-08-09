@@ -14,7 +14,7 @@ year = today.strftime('%Y')
 
 daycount = int(daycount)
 
-daycount = daycount + 1
+#daycount = daycount + 1
 
 day = str(daycount)
 
