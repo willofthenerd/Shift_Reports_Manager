@@ -1,0 +1,92 @@
+* DTLA *
+
+
+
+XX:XX - Onsite
+    
+Tasks
+Monday.com
+- added time for remote hands requests
+
+    Rounds
+    1202
+    Pressure Dial: 20 psi
+    CRAC-1: 73/29
+    CRAC-2: 73/29
+    CRAC-3: 
+    CRAC-4: 
+    NOTES: 
+    1220
+    CRAC-1: 73/29
+    CRAC-2: 73/29
+    CRAC-3: 
+    CRAC-4: 
+    Main Supply Pipe Leak: no leak 
+    NOTES: 
+    1208
+    CRAC-1: 73/29
+    CRAC-2: 
+    CRAC-3: 
+    CRAC-4: 
+    NOTES: 
+    1611
+    CRAC-1: 73/29
+    CRAC-2: 66/48
+    CRAC-3: 78/36
+    CRAC-4: 
+    CRAC-5: 
+    NOTES: 
+    1600
+    Honeywell: 82
+    CRAC-1: 76/35
+    CRAC-2: 66/48
+    CRAC-3: 78/36
+    NOTES: 
+    300
+    CRAC-1: 74/42
+    CRAC-2: 79/37
+    CRAC-3: 70/48
+    CRAC-4: 77/41
+    CRAC-5: 67/53
+    CRAC-6: 75/42
+    CRAC-7: 73/44
+    CRAC-8: 77/37
+    CRAC-9: 75/33
+    NOTES: 
+    305
+    CRAC-1: 73/29
+    CRAC-2: 66/48
+    CRAC-3: 78/36
+    CRAC-4: 
+    CRAC-5: 
+    NOTES: 
+    2805
+    CRAC-1: 69/35
+    CRAC-2: 
+    CRAC-3: 64.4
+    CRAC-4: 62.6
+    NOTES: 
+    400
+    CRAC-1: 71/49
+    CRAC-2: 72/47
+    CRAC-3: 
+    CRAC-4: 
+    CRAC-5: 
+    CRAC-6: 
+    CRAC-7: 
+    DC-PLANT-1: 
+    NOTES: 
+    611
+    UPS-1: Clear!
+    UPS-2: Clear!
+    UPS-3: Clear!
+    UPS-4: Clear!
+    NOTES: 
+    609
+    All good!
+    Building Lobby: Clear!
+    Pre-action PNL: All clear!
+    NOTES: 
+
+XX:XX - Offsite
+NOTES: 
