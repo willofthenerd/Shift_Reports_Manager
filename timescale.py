@@ -15,11 +15,26 @@ class shift_timing:
     g_tmout = time.struct_time(tm_hour=8, tm_min=0, tm_sec=0)
 
 
-    def __init__(self):
-        self.today = datetime.now()
-        self.month = today.strftime('%B')
-        self.daycount = today.strftime('%d')
-        self.year = today.strftime('%Y')
+def __init__(self, newfilename, txtfilename):
+    today = datetime.now()
+
+    month = today.strftime('%B')
+    daycount = today.strftime('%d') 
+    year = today.strftime('%Y')
+
+    daycount = int(daycount)
+
+    #daycount = daycount + 1
+
+    day = str(daycount)
+
+    newfilename = month + " " + day + ", " + year 
+    txtfilename = month + " " + day + ", " + year + ".txt"
+
+
+    return(newfilename, txtfilename)
+
+
 
 
 #today = datetime.now()

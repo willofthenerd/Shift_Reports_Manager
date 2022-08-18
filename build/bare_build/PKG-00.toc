@@ -1,0 +1,47 @@
+('C:\\Users\\wmartinez\\OneDrive - Crown Castle USA Inc\\Documents\\Shift '
+ 'Reports\\Software\\Shift_Reports_Manager\\build\\bare_build\\bare_build.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\wmartinez\\OneDrive - Crown Castle USA Inc\\Documents\\Shift '
+   'Reports\\Software\\Shift_Reports_Manager\\build\\bare_build\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\wmartinez\\OneDrive - Crown Castle USA Inc\\Documents\\Shift '
+   'Reports\\Software\\Shift_Reports_Manager\\build\\bare_build\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\wmartinez\\OneDrive - Crown Castle USA Inc\\Documents\\Shift '
+   'Reports\\Software\\Shift_Reports_Manager\\build\\bare_build\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\wmartinez\\OneDrive - Crown Castle USA Inc\\Documents\\Shift '
+   'Reports\\Software\\Shift_Reports_Manager\\build\\bare_build\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\wmartinez\\OneDrive - Crown Castle USA Inc\\Documents\\Shift '
+   'Reports\\Software\\Shift_Reports_Manager\\build\\bare_build\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\wmartinez\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\wmartinez\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('bare_build',
+   'C:\\Users\\wmartinez\\OneDrive - Crown Castle USA Inc\\Documents\\Shift '
+   'Reports\\Software\\Shift_Reports_Manager\\bare_build.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

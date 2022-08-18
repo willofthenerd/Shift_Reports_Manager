@@ -5,10 +5,10 @@
 XX:XX - Onsite
     
 Tasks
-Monday.com
-- added time for remote hands requests
+    Monday.com
+    - added time for remote hands requests
 
-    Rounds
+Rounds
     1202
     Pressure Dial: 20 psi
     CRAC-1: 73/29
